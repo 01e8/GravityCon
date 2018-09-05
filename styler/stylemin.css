@@ -1,0 +1,49 @@
+@media screen and (max-width: 1820px) {
+
+}
+
+@media screen and (max-width: 1670px) {
+
+    
+    #fandomtext {
+        width: 400px;
+        margin-left: calc(50% - 200px);
+    }
+    
+
+    
+}
+
+@media screen and (max-width: 1470px) {
+    #fandomtext {
+        width: 400px;
+        margin-left: 50%;
+    }
+    #ponyfan {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+
+
+
+    
+}
+
+@media screen and (max-width: 1200px) {
+    
+    #fandomtext {
+        width: 400px;
+        margin-left: 50%;
+    }
+    
+}
+
+@media screen and (max-width: 1050px) {
+    #subbuttonbuy2 {
+
+    margin-left: 50px;
+
+    }
+}
