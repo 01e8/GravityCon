@@ -125,7 +125,7 @@
    <div class="center1000">
         <div id="subbuttonbuy">
             <div id="info">
-                8 января 2016<br>
+                26 марта 2017<br>
                 Москва, Дубининская, 71/5
             </div>
                <a id="buttonbuy" href="https://crusaders.timepad.ru/event/404937/" target="_blank">
@@ -219,7 +219,7 @@
         <div id="info2">
             <h1>GravityCon тут</h1>
             <p>
-            8 января 2016<br>
+            26 марта 2017<br>
             Москва, Дубининская, 71/5
             </p>
         </div>
